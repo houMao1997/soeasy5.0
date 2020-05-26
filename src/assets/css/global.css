@@ -1,0 +1,52 @@
+/* 全局样式表 */
+html,
+body,
+#app {
+  height: 100%;
+  /* min-height: 100%; */
+  margin: 0;
+  padding: 0;
+  /* min-width: 1366px; */
+}
+/* .el-form-item__content{
+    width: 70%;
+} */
+.item .el-input__inner{
+    color:#fff;
+    background-color: #0581E2;
+    border: none;
+}
+.item .el-input.el-input--suffix{
+    /* width: 70%; */
+    color:#fff;
+    background-color: #0581E2;
+}
+.el-breadcrumb {
+  margin-bottom: 15px;
+  font-size: 12px;
+}
+
+.el-card {
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15) !important;
+}
+
+.el-table {
+  margin-top: 15px;
+  font-size: 12px;
+}
+
+.el-pagination {
+  margin-top: 15px;
+}
+
+.el-steps {
+  margin: 15px 0;
+}
+.el-table .cell{
+  font-size: 14px;
+}
+.el-step__title {
+  font-size: 13px;
+}
+
+
